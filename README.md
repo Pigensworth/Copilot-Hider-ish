@@ -1,2 +1,2 @@
-# Copilot-Hider-ish-
-This is just a simple extension that will keep Bing.com from scrolling further than the top of the page and therefore going to copilot. It can also be used as an auto scroller if you want to mod it.
+# Installation
+To install this extension click on the blue code button and click Download ZIP. Once it's downloaded select the folder and extract all. While it's extracting go to Edge and click on the three dots on the top right. Click 'Extensions' then 'Manage Extensions' in the popup.
